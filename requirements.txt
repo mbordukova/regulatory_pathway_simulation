@@ -1,0 +1,33 @@
+attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+bleach==3.3.0
+build==0.5.1
+certifi==2021.5.30
+chardet==4.0.0
+colorama==0.4.4
+docutils==0.17.1
+idna==2.10
+importlib-metadata==4.6.0
+iniconfig @ file:///tmp/build/80754af9/iniconfig_1602780191262/work
+keyring==23.0.1
+more-itertools @ file:///tmp/build/80754af9/more-itertools_1598884071673/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1624399924833/work
+packaging==20.4
+pep517==0.10.0
+pkginfo==1.7.0
+pluggy==0.12.0
+py @ file:///tmp/build/80754af9/py_1593446248552/work
+Pygments==2.9.0
+pyparsing==2.4.7
+pytest==6.2.4
+readme-renderer==29.0
+requests==2.25.1
+requests-toolbelt==0.9.1
+rfc3986==1.5.0
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1624824914322/work
+six==1.15.0
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+tqdm==4.61.1
+twine==3.4.1
+urllib3==1.26.6
+webencodings==0.5.1
+zipp @ file:///tmp/build/80754af9/zipp_1603306325174/work
