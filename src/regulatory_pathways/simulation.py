@@ -94,7 +94,7 @@ def generate_ensemble(
     samples = [
         SystemState(
             dna_state_value=promoter_state_distribution.rvs(random_state=random_state),
-            mrna_state_value=mrna_concentration_distribution.rvs(random_state=random_state),
+            mrna_state_value=100 * mrna_concentration_distribution.rvs(random_state=random_state),
         ) for _ in range(num_samples)
     ]
     return EnsembleState(samples)
